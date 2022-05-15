@@ -1,1 +1,1 @@
-# github-api-global-lib
+This repository contains the shared library examples.
